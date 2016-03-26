@@ -20,8 +20,13 @@
 }
 
 body {
+	background: #9e958d;
+}
+
+.container {
 	width: 980px;
 	margin: 0 auto;
+	background: #fff;
 }
 
 .header {
